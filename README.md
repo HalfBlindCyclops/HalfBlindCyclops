@@ -1,35 +1,40 @@
 # Sean Wetherell
 
-**CS @ Northeastern** · Boston, MA · [halfblindcyclops.github.io](https://halfblindcyclops.github.io)
+**CS, Northeastern (May 2026)** · Boston, MA · [seanwetherell.work](https://seanwetherell.work)
 
-I build systems that have to hold up — distributed stores, simulation loops, and full-stack tools people actually use. Prefer shipping something real over talking about it.
+I build things that have to work under real constraints — distributed systems, simulation loops, and tools people actually ship with. CS background, commercial instincts: at Boston Globe I sold a remote weather platform internally from an intern seat and got promoted on the result.
 
 ```text
-  systems · simulation · distributed infra · applied AI
+  systems · distributed infra · simulation · applied AI
 ```
 
 ---
 
-### Featured work
+### Projects
 
-| Project | What it is |
-| --- | --- |
-| [**Orbit**](https://github.com/HalfBlindCyclops/Orbit) | Orbital mechanics + telemetry simulator — J2 / N-body gravity, propulsive staging, 60 Hz loop (C++20, Eigen, Protobuf) |
-| [**DistributedHashmap**](https://github.com/HalfBlindCyclops/DistributedHashmap) | Fault-tolerant WAN DHT — consistent hashing, N=3 replication, read-repair, anti-entropy, TLS/mTLS RPC (Rust) |
-| [**Interactive Globe Resume**](https://halfblindcyclops.github.io) | Cinematic 3D portfolio — Next.js, React Three Fiber, Framer Motion |
-| [**personal-os**](https://github.com/HalfBlindCyclops/personal-os) | Personal ops stack — job-search CRM, Gmail triage, calendar, fitness tracking (TypeScript / Next.js) |
+**[Orbit](https://github.com/HalfBlindCyclops/Orbit)** — Orbital mechanics + telemetry simulator  
+J2 / lunar N-body gravity, propulsive staging, 60 Hz loop. C++20, Eigen, Protobuf, CMake.
+
+**[DistributedHashmap](https://github.com/HalfBlindCyclops/DistributedHashmap)** — Fault-tolerant WAN DHT  
+Consistent hashing, virtual nodes, N=3 replication, read-repair, anti-entropy, TLS/mTLS RPC. Rust.
+
+**[assignmint](https://github.com/HalfBlindCyclops/assignmint)** — Student scheduling platform  
+Real-time schedule generation with a low-friction UX. TypeScript / full-stack; used by actual students.
+
+**[Interactive Globe Resume](https://seanwetherell.work)** — 3D portfolio  
+Cinematic site built with Next.js, React Three Fiber, and Framer Motion.
 
 ---
 
 ### Background
 
-- **Boston Globe Media** — IT Analyst (promoted from co-op). Owned discovery through delivery on a remote weather-management platform; enterprise IT across AD, Jamf, Sophos, Jira.
-- **Center for Inclusive Computing** — AI research: curriculum analysis, data viz, and the AI Curriculum Mapper.
+- **Boston Globe Media** — IT Analyst (promoted from co-op). Discovery → delivery on a remote weather-management platform; enterprise IT across AD, Jamf, Sophos, Jira.
+- **Center for Inclusive Computing** — AI research: curriculum analysis, data viz, AI Curriculum Mapper.
 - **Northeastern Club Wrestling** — former 4-year varsity wrestler; still competing.
 
 ---
 
-### Stack I reach for
+### Stack
 
 `Rust` `C++` `TypeScript` `Python` `Next.js` `Prisma` `Protobuf` `CMake` `SQL`
 
@@ -37,9 +42,4 @@ I build systems that have to hold up — distributed stores, simulation loops, a
 
 ### Elsewhere
 
-[Portfolio](https://halfblindcyclops.github.io) · [Email](mailto:seanwwetherell@gmail.com)
-
-<!--
-Setup: create a public repo named exactly HalfBlindCyclops (same as your username),
-put this file at the root as README.md, and it becomes your profile homepage.
--->
+[Portfolio](https://seanwetherell.work) · [LinkedIn](https://www.linkedin.com/in/sean-wetherell) · [Email](mailto:seanwwetherell@gmail.com)
