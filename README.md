@@ -35,7 +35,7 @@ Cinematic site built with Next.js, React Three Fiber, and Framer Motion.
 
 - **Boston Globe Media** — IT Analyst (promoted from co-op). Discovery → delivery on a remote weather-management platform; enterprise IT across AD, Jamf, Sophos, Jira.
 - **Center for Inclusive Computing** — AI research: curriculum analysis, data viz, AI Curriculum Mapper.
-- **Northeastern Club Wrestling** — former 4-year varsity wrestler; still competing.
+- **Wrestling** — 4-year varsity in high school; Northeastern Club Wrestling (still competing).
 
 ---
 
