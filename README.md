@@ -4,9 +4,14 @@
 
 I build things that have to work under real constraints — distributed systems, simulation loops, and tools people actually ship with. CS background, commercial instincts: at Boston Globe I sold a remote weather platform internally from an intern seat and got promoted on the result.
 
-```text
-  systems · distributed infra · simulation · applied AI
-```
+---
+
+### Hobbies
+
+- Systems
+- Distributed infra
+- Simulation
+- Applied AI
 
 ---
 
