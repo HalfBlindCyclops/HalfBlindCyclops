@@ -17,17 +17,41 @@ I build things that have to work under real constraints — distributed systems,
 
 ### Projects
 
-**[Orbit](https://github.com/HalfBlindCyclops/Orbit)** — Orbital mechanics + telemetry simulator  
-J2 / lunar N-body gravity, propulsive staging, 60 Hz loop. C++20, Eigen, Protobuf, CMake.
+#### Web Dev
 
-**[DistributedHashmap](https://github.com/HalfBlindCyclops/DistributedHashmap)** — Fault-tolerant WAN DHT  
-Consistent hashing, virtual nodes, N=3 replication, read-repair, anti-entropy, TLS/mTLS RPC. Rust.
+**AI Curriculum Mapper** — Curriculum dependency and gap analysis  
+Full-stack views of prerequisites and competency gaps for the Center for Inclusive Computing. TypeScript, React.
 
-**[assignmint](https://github.com/HalfBlindCyclops/assignmint)** — Student scheduling platform  
-Real-time schedule generation with a low-friction UX. TypeScript / full-stack; used by actual students.
+**[Huskender](https://github.com/HalfBlindCyclops/assignmint)** — Student scheduling platform  
+Real-time schedule generation with a low-friction UX. TypeScript / full-stack; used by actual students. Repo: `assignmint`.
 
-**[Interactive Globe Resume](https://seanwetherell.work)** — 3D portfolio  
-Cinematic site built with Next.js, React Three Fiber, and Framer Motion.
+**Dev Exchange** — Peer technical-expertise exchange  
+Profile-based matching and the front-end for a developer skill-exchange MVP. React, Node.js.
+
+**[Portfolio Globe](https://seanwetherell.work)** — 3D portfolio (this site)  
+WebGL Earth, cinematic camera, and an interactive resume. Next.js, React Three Fiber, custom GLSL. [Source](https://github.com/HalfBlindCyclops/HalfBlindCyclops.github.io).
+
+#### Systems
+
+**[Spacecraft Simulation Engine](https://github.com/HalfBlindCyclops/Orbit)** — Orbital mechanics + telemetry  
+Headless 60 Hz loop in ECI space: RK4, propulsive staging, protobuf telemetry. C++20, Eigen, Protobuf, CMake. Repo: `Orbit`.
+
+**[WAN DHT](https://github.com/HalfBlindCyclops/DistributedHashmap)** — Fault-tolerant distributed store  
+Consistent hashing, virtual nodes, N=3 replication, read-repair, anti-entropy, TLS/mTLS RPC. Rust. Repo: `DistributedHashmap`.
+
+**Binary Exploitation** — Hardened Linux binary labs  
+Stack layout, calling conventions, and control-flow analysis on protected binaries. Linux, x86-64, GDB.
+
+**Secure Web Crawler** — Authenticated HTTP/HTTPS crawler  
+Python stdlib only: manual TLS, chunked-transfer parsing, session persistence, CSRF-aware navigation.
+
+#### Security
+
+**Crypto Analysis** — Protocol and traffic analysis  
+Custom cryptographic message flows and noise recovery on degraded channels. Python.
+
+**Web Vulnerability Suite** — OWASP-style findings on simulated targets  
+SQL injection, XSS, and CSRF paths, written up for remediation handoff. JavaScript, SQL, HTTP.
 
 ---
 
